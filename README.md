@@ -1,2 +1,2 @@
 # assets
-Asset management
+Asset management for static pages
